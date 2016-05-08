@@ -2,8 +2,8 @@
 import java.math.*;
 
 public class NumberPrecise{
-  int scale = 0;
-
+  int decimalpoint = 0;
+  
   BigDecimal number1;
   BigDecimal number2;
 
